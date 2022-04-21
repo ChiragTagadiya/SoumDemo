@@ -1,0 +1,163 @@
+[
+    {
+        "id": 0,
+        "title": "Mobile Phones",
+        "isChecked": false,
+        "isExpanded": false,
+        "description": "",
+        "children": [
+            {
+                "id": 1,
+                "isChecked": false,
+                "isExpanded": false,
+                "title": "Apple",
+                "description": "",
+                "children": [
+                    {
+                        "id": 2,
+                        "isChecked": false,
+                        "isExpanded": false,
+                        "title": "iPhone 8",
+                        "description": "",
+                        "children": [
+                            {
+                                "id": 3,
+                                "isChecked": false,
+                                "title": "128 GB",
+                                "description": "200+ devices"
+                            },
+                            {
+                                "id": 4,
+                                "isChecked": false,
+                                "title": "256 GB",
+                                "description": "158+ devices"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "isChecked": false,
+                        "title": "iPhone 13",
+                        "description": "108+ devices"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "isChecked": false,
+                "isExpanded": false,
+                "title": "Samsung",
+                "description": "",
+                "children": [
+                    {
+                        "id": 7,
+                        "isChecked": false,
+                        "title": "Galaxy S22 Ultra",
+                        "description": ""
+                    },
+                    {
+                        "id": 8,
+                        "isChecked": false,
+                        "isExpanded": false,
+                        "title": "Galaxy A53 5G",
+                        "description": "108+ devices",
+                        "children": [
+                            {
+                                "id": 9,
+                                "isChecked": false,
+                                "title": "128 GB",
+                                "description": "123+ devices"
+                            },
+                            {
+                                "id": 10,
+                                "isChecked": false,
+                                "title": "256 GB",
+                                "description": "160+ devices"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "isChecked": false,
+        "isExpanded": false,
+        "title": "Computers",
+        "description": "",
+        "children": [
+            {
+                "id": 12,
+                "isChecked": false,
+                "isExpanded": false,
+                "title": "Apple",
+                "description": "",
+                "children": [
+                    {
+                        "id": 13,
+                        "isChecked": false,
+                        "isExpanded": false,
+                        "title": "MacBook Pro",
+                        "description": "",
+                        "children": [
+                            {
+                                "id": 14,
+                                "isChecked": false,
+                                "title": "512 GB",
+                                "description": "5+ devices"
+                            },
+                            {
+                                "id": 15,
+                                "isChecked": false,
+                                "title": "1 TB",
+                                "description": "20+ devices"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "isChecked": false,
+                        "title": "Mac mini",
+                        "description": "25+ devices"
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "isChecked": false,
+                "isExpanded": false,
+                "title": "Dell",
+                "description": "",
+                "children": [
+                    {
+                        "id": 18,
+                        "title": "Inspiron",
+                        "description": "",
+                        "children": [
+                            {
+                                "id": 19,
+                                "isChecked": false,
+                                "title": "1 TB",
+                                "description": "44+ devices"
+                            },
+                            {
+                                "id": 20,
+                                "isChecked": false,
+                                "title": "2 TB",
+                                "description": "12+ devices"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "isChecked": false,
+                        "isExpanded": false,
+                        "title": "Vostro",
+                        "description": "33+ devices"
+                    }
+                ]
+            }
+        ]
+    }
+]
